@@ -1,0 +1,150 @@
+massgeneral: In the delivery of our care, through our research and within our communities, Mass General is committed to the well-being of our patients locally and globally.
+Doctor: Emily Aaronson, MD
+Location: Boston
+
+massgeneral: In the delivery of our care, through our research and within our communities, Mass General is committed to the well-being of our patients locally and globally.
+Doctor: Matthew Abadir, MD
+Location: Locations: Boston, Salem
+
+massgeneral: In the delivery of our care, through our research and within our communities, Mass General is committed to the well-being of our patients locally and globally.
+Doctor: Lauren Abbate, MD
+Location: Boston
+
+massgeneral: In the delivery of our care, through our research and within our communities, Mass General is committed to the well-being of our patients locally and globally.
+Doctor: Gerald Abbott, MD
+Location: Boston
+
+massgeneral: In the delivery of our care, through our research and within our communities, Mass General is committed to the well-being of our patients locally and globally.
+Doctor: Shadi Abdar Esfahani, MD, MPH
+Location: Boston
+
+massgeneral: In the delivery of our care, through our research and within our communities, Mass General is committed to the well-being of our patients locally and globally.
+Doctor: Sama Abdul-Aziz, DMD
+Location: Boston
+
+massgeneral: In the delivery of our care, through our research and within our communities, Mass General is committed to the well-being of our patients locally and globally.
+Doctor: Dunia Abdul-Aziz, MD
+Location: 
+
+massgeneral: In the delivery of our care, through our research and within our communities, Mass General is committed to the well-being of our patients locally and globally.
+Doctor: Madelaine Abel, PhD
+Location: 
+
+massgeneral: In the delivery of our care, through our research and within our communities, Mass General is committed to the well-being of our patients locally and globally.
+Doctor: Rachel Abelman, MD
+Location: Boston
+
+massgeneral: In the delivery of our care, through our research and within our communities, Mass General is committed to the well-being of our patients locally and globally.
+Doctor: John Ablon, PhD
+Location: Boston
+
+Cleveland Clinic: A renowned medical facility located in Cleveland, USA.
+Doctor: Ksenia Aaron, MD
+Department: Head and Neck Institute
+Location: Twinsburg Family Health & Surgery Center, Cleveland Clinic Main Campus
+
+Cleveland Clinic: A renowned medical facility located in Cleveland, USA.
+Doctor: Sagiv Aaron, MD
+Department: Primary Care Pediatrics
+Location: Independence Family Hlth Ctr
+
+Cleveland Clinic: A renowned medical facility located in Cleveland, USA.
+Doctor: Katarina Abadie, MD
+Department: Family Medicine
+Location: Solon Family Health Center
+
+Cleveland Clinic: A renowned medical facility located in Cleveland, USA.
+Doctor: Justin Abbatemarco, MD
+Department: Mellen Center
+Location: Cleveland Clinic Main Campus, Twinsburg Family Health & Surgery Center
+
+Cleveland Clinic: A renowned medical facility located in Cleveland, USA.
+Doctor: Aza Abdalla, MD
+Department: Transplantation Center
+Location: Weston Hospital
+
+Cleveland Clinic: A renowned medical facility located in Cleveland, USA.
+Doctor: Sawsan Abdel-Razig, MD
+Department: International Operations
+Location: Abu Dhabi
+
+Cleveland Clinic: A renowned medical facility located in Cleveland, USA.
+Doctor: Sarah AbdelFattah, MD
+Department: Anesthesiology
+Location: Weston Hospital
+
+Cleveland Clinic: A renowned medical facility located in Cleveland, USA.
+Doctor: Yaser Abdelhamid, ND, LAc
+Department: Center for Integrative Medicine
+Location: Avon - Richard E. Jacobs Health Center , Amherst Cooper Foster Medical Outpatient Center
+
+Cleveland Clinic: A renowned medical facility located in Cleveland, USA.
+Doctor: Basem Abdelmalak, MD
+Department: General Anesthesiology, Outcomes Research
+Location: Cleveland Clinic Main Campus
+
+Cleveland Clinic: A renowned medical facility located in Cleveland, USA.
+Doctor: Mamoun Abdoh, MD
+Department: Pulmonary Medicine, Critical Care Medicine
+Location: Hillcrest Hospital
+
+Mayo Clinic: A top medical center located in Rochester, MN.
+Doctor: Chris A. Aakre, M.D.
+Roles: Internist
+Location: Rochester, MN
+Areas of Focus: Integrative medicine
+
+Mayo Clinic: A top medical center located in Rochester, MN.
+Doctor: Ejigayehu G. Abate, M.D.
+Roles: Internist, Endocrinologist
+Location: Jacksonville, FL
+Areas of Focus: Metabolic bone disease, Osteoporosis, Hyperparathyroidism, Hypoparathyroidism
+
+Mayo Clinic: A top medical center located in Rochester, MN.
+Doctor: Charles F. Abboud, M.B.
+Roles: NA
+Location: Rochester, MN
+Areas of Focus: NA
+
+Mayo Clinic: A top medical center located in Rochester, MN.
+Doctor: Arney S. Abcejo, M.D.
+Roles: Anesthesiologist
+Location: Rochester, MN
+Areas of Focus: NA
+
+Mayo Clinic: A top medical center located in Rochester, MN.
+Doctor: Ahmed D. Abdalrhim, M.D.
+Roles: Internist
+Location: Rochester, MN
+Areas of Focus: NA
+
+Mayo Clinic: A top medical center located in Rochester, MN.
+Doctor: Matthew P. Abdel, M.D.
+Roles: Orthopedic Surgeon
+Location: Rochester, MN
+Areas of Focus: Hip replacement, Knee replacement, Knee reconstruction, Hip surgery, Hip replacement revision, Hip fracture surgery, Os..., , . Abdel, M.D.
+
+Mayo Clinic: A top medical center located in Rochester, MN.
+Doctor: Haidar M. Abdul-Muhsin, M.B., Ch.B.
+Roles: NA
+Location: Phoenix, AZ
+Areas of Focus: Nephrectomy, Prostatectomy, Partial nephrectomy, Kidney cancer, Prostate cancer
+
+Mayo Clinic: A top medical center located in Rochester, MN.
+Doctor: Martin D. Abel, M.D.
+Roles: Anesthesiologist
+Location: Jacksonville, FL
+Areas of Focus: Echocardiogram
+
+Mayo Clinic: A top medical center located in Rochester, MN.
+Doctor: JP P. Abenstein, M.D.
+Roles: Anesthesiologist
+Location: Rochester, MN
+Areas of Focus: General anesthesia administration
+
+Mayo Clinic: A top medical center located in Rochester, MN.
+Doctor: Jithma P. Abeykoon, M.D.
+Roles: Hematologist
+Location: Rochester, MN
+Areas of Focus: NA
+
